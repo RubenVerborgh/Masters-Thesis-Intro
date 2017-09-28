@@ -19,3 +19,8 @@ blockquote {
   font-style: italic;
   letter-spacing: .5px;
 }
+
+.slide dl.tight dt,
+.slide dl.tight dd {
+  margin-top: 0;
+}
