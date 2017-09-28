@@ -20,6 +20,10 @@ blockquote {
   letter-spacing: .5px;
 }
 
+.slide p {
+  margin-left: 0;
+}
+
 .slide dl.tight dt,
 .slide dl.tight dd {
   margin-top: 0;
