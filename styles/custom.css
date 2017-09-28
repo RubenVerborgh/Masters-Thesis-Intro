@@ -24,3 +24,8 @@ blockquote {
 .slide dl.tight dd {
   margin-top: 0;
 }
+
+.slide h2.shout {
+  font-size: 1.5em;
+  line-height: 1.2;
+}
