@@ -5,3 +5,17 @@ p.venue {
   font-style: italic;
   margin-bottom: 1em;
 }
+
+q:before {
+  content: "“";
+}
+q:after {
+  content: "”";
+}
+
+blockquote {
+  margin: 5em 1em 1em 2em;
+  font-weight: bold;
+  font-style: italic;
+  letter-spacing: .5px;
+}
